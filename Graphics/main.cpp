@@ -6,5 +6,7 @@ int main(int argc, char** argv)
 	MainGame mainGame;
 	mainGame.run();
 
+	//LOLOLOL
+
 	return 0;
 }
